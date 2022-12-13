@@ -1,0 +1,21 @@
+.login-img {
+    width: 600px;
+    height: 555px;
+    left: 0px;
+    top: 160px;
+
+}
+
+.logo-img {
+    width: 472px;
+    height: 125px;
+    margin: 0px 0px 32px 64px;
+}
+
+.signupButton {
+    text-align: center;
+}
+
+.right-container{
+    margin-top: -35px;
+}
